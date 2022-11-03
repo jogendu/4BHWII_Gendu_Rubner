@@ -1,5 +1,6 @@
 public class Fakultät {
 
+    //Statt Fakultät Summenfunktion
     public static void main(String[] args) {
         System.out.println(FakultätRe(3));
         System.out.println(FakultätIn(3));
@@ -10,7 +11,7 @@ public class Fakultät {
             return 1;
         }
         else{
-            return Zahl*FakultätRe(Zahl-1);
+            return Zahl+FakultätRe(Zahl-1);
         }
     }
 
@@ -22,7 +23,7 @@ public class Fakultät {
         else {
 
             for (int i = 1; i <= Zahl; i++) {
-                puffer = puffer * i;
+                puffer = puffer + i;
             }
         }
         return puffer;
