@@ -16,7 +16,7 @@ public class Fakultät {
     }
 
     public static int FakultätIn(int Zahl){
-        int puffer = 1;
+        int puffer = 0;
         if (Zahl <=1){
             return 1;
         }
