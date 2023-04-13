@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba0abc5f-0808-4b93-8fe4-9ef6d64c9b3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8f129288-4962-4f9f-8e86-9c473dd7fc6d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,16 +15,10 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="2MlZ4iXjagg5Eh227bgxfpOMLYf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2OMKPpkwEKiCHgCP1qKCCmbgtLA" />
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../FactoryPattern" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -52,32 +43,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ba0abc5f-0808-4b93-8fe4-9ef6d64c9b3f" name="Default Changelist" comment="" />
-      <created>1678343939868</created>
+      <changelist id="8f129288-4962-4f9f-8e86-9c473dd7fc6d" name="Default Changelist" comment="" />
+      <created>1681364989817</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678343939868</updated>
-      <workItem from="1678343948450" duration="1334000" />
-      <workItem from="1678356009870" duration="947000" />
-      <workItem from="1680156616375" duration="1202000" />
-      <workItem from="1681364943999" duration="1246000" />
+      <updated>1681364989817</updated>
+      <workItem from="1681364994966" duration="2267000" />
+      <workItem from="1681370461969" duration="625000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
